@@ -1,4 +1,4 @@
-# 19CS415-Elgamal-Algorithm
+# EX-12-ELGAMAL ALGORITHM
 ## AIM:
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
